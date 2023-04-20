@@ -1,0 +1,192 @@
+[
+  {
+    "user": {
+      "id": 1,
+      "name": "Bancolombia",
+      "picture": "https://www.bancolombia.com/wcm/connect/b8e4c3f2-36a9-497d-a125-ac04f83b0bf8/LogoBancolombia.png",
+      "isVerified": true
+    },
+    "post": {
+      "id": 1,
+      "title": "Bancolombia lanza nueva tarjeta de crédito",
+      "body": "La nueva tarjeta de crédito de Bancolombia, la Tarjeta de Crédito Clásica, es una opción para los clientes que buscan una tarjeta de crédito con un límite de crédito bajo y sin anualidad.",
+      "media": "https://www.bancolombia.com/wcm/connect/www.bancolombia.com-26918/310892d3-3dd4-44dc-aec7-d3218b181e77/MC_ideal-min.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-310892d3-3dd4-44dc-aec7-d3218b181e77-o4HbAnD",
+      "createdAt": "2019-01-01T00:00:00.000Z",
+      "updatedAt": "2019-01-01T00:00:00.000Z"
+    },
+    "comments": [
+      {
+        "id": 1,
+        "body": "This is a comment",
+        "createdAt": "2019-01-01T00:00:00.000Z",
+        "updatedAt": "2019-01-01T00:00:00.000Z"
+      }
+    ],
+    "likes": [
+      {
+        "id": 1,
+        "createdAt": "2019-01-01T00:00:00.000Z",
+        "updatedAt": "2019-01-01T00:00:00.000Z"
+      }
+    ],
+    "shares": [
+      {
+        "id": 1,
+        "createdAt": "2019-01-01T00:00:00.000Z",
+        "updatedAt": "2019-01-01T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "user": {
+      "id": 2,
+      "name": "Scrinio",
+      "picture": "https://scrinio.co/_next/image?url=%2Fimages%2Flogo.png",
+      "isVerified": true
+    },
+    "post": {
+      "id": 1,
+      "title": "La nueva funcionalidad de Scrinio App que te ayudará a mejorar tu productividad",
+      "body": "En Scrinio reemplazamos este carnet por una app que además de ahorrar millones de toneladas en plástico, hace que las universidades y sus estudiantes estén mejor y más conectados a través de múltiples funcionalidades que robustecen e impactan la interacción en las diferentes actores que integran estos centros que adoptan estas tecnologías.",
+      "media": "https://scrinio.co/images/scrinioApp/socialFunctions-mobile.png",
+      "createdAt": "2019-01-01T00:00:00.000Z",
+      "updatedAt": "2019-01-01T00:00:00.000Z"
+    },
+    "comments": [
+      {
+        "id": 1,
+        "body": "This is a comment",
+        "createdAt": "2019-01-01T00:00:00.000Z",
+        "updatedAt": "2019-01-01T00:00:00.000Z"
+      }
+    ],
+    "likes": [
+      {
+        "id": 1,
+        "createdAt": "2019-01-01T00:00:00.000Z",
+        "updatedAt": "2019-01-01T00:00:00.000Z"
+      }
+    ],
+    "shares": [
+      {
+        "id": 1,
+        "createdAt": "2019-01-01T00:00:00.000Z",
+        "updatedAt": "2019-01-01T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "user": {
+      "id": 3,
+      "name": "Forbes Colombia",
+      "picture": "https://cdn.forbes.co/2019/11/76608817_124825865599098_1729314821628755968_n-1.jpg",
+      "isVerified": true
+    },
+    "post": {
+      "id": 1,
+      "title": "Las cifras detrás de Super Mario Bros, la película que rompe récords históricos",
+      "body": "Este fin de semana, el film superará los US$ 600 millones de taquilla internacional. La oportunidad de llegar a los mil millones de dólares y la secuela que planea el estudio.",
+      "media": "https://forbes.co/_next/image?url=https%3A%2F%2Fcdn.forbes.co%2F2023%2F04%2FSuper-Mario-Bros-Universal.jpg&w=1200&q=75",
+      "createdAt": "2019-01-01T00:00:00.000Z",
+      "updatedAt": "2019-01-01T00:00:00.000Z"
+    },
+    "comments": [
+      {
+        "id": 1,
+        "body": "This is a comment",
+        "createdAt": "2019-01-01T00:00:00.000Z",
+        "updatedAt": "2019-01-01T00:00:00.000Z"
+      }
+    ],
+    "likes": [
+      {
+        "id": 1,
+        "createdAt": "2019-01-01T00:00:00.000Z",
+        "updatedAt": "2019-01-01T00:00:00.000Z"
+      }
+    ],
+    "shares": [
+      {
+        "id": 1,
+        "createdAt": "2019-01-01T00:00:00.000Z",
+        "updatedAt": "2019-01-01T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "user": {
+      "id": 4,
+      "name": "El Tiempo",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/d/de/NUEVO_LOGO_DE_EL_TIEMPO_HD.jpg",
+      "isVerified": true
+    },
+    "post": {
+      "id": 2,
+      "title": "Estudiantes colombianos desarrollan robot para ayudar en la agricultura",
+      "body": "El robot puede sembrar, regar y fumigar cultivos. Los estudiantes esperan que su invento ayude a mejorar la productividad y reducir costos en el campo colombiano.",
+      "media": "https://mexico.infoagro.com/wp-content/uploads/2020/03/robot-agricola-GRAPE.jpg",
+      "createdAt": "2019-05-08T00:00:00.000Z",
+      "updatedAt": "2019-05-08T00:00:00.000Z"
+    },
+    "comments": [
+      {
+        "id": 2,
+        "body": "Excelente iniciativa!",
+        "createdAt": "2019-05-08T00:00:00.000Z",
+        "updatedAt": "2019-05-08T00:00:00.000Z"
+      }
+    ],
+    "likes": [
+      {
+        "id": 2,
+        "createdAt": "2019-05-08T00:00:00.000Z",
+        "updatedAt": "2019-05-08T00:00:00.000Z"
+      }
+    ],
+    "shares": [
+      {
+        "id": 2,
+        "createdAt": "2019-05-08T00:00:00.000Z",
+        "updatedAt": "2019-05-08T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "user": {
+      "id": 5,
+      "name": "Semana",
+      "picture": "https://cdn.semana.com/assets/img/main_logo.svg",
+      "isVerified": true
+    },
+    "post": {
+      "id": 3,
+      "title": "Gobierno colombiano presenta plan de recuperación económica tras la pandemia",
+      "body": "El plan incluye medidas como la reducción de impuestos, la simplificación de trámites para la creación de empresas y la promoción del turismo interno.",
+      "media": "https://cdn.semana.com//content/uploads/2022/03/23/1f2b48d8c310128a7b97d621b9a7cf8f.jpg",
+      "createdAt": "2022-03-23T00:00:00.000Z",
+      "updatedAt": "2022-03-23T00:00:00.000Z"
+    },
+    "comments": [
+      {
+        "id": 3,
+        "body": "Excelente iniciativa!",
+        "createdAt": "2022-03-23T00:00:00.000Z",
+        "updatedAt": "2022-03-23T00:00:00.000Z"
+      }
+    ],
+    "likes": [
+      {
+        "id": 3,
+        "createdAt": "2022-03-23T00:00:00.000Z",
+        "updatedAt": "2022-03-23T00:00:00.000Z"
+      }
+    ],
+    "shares": [
+      {
+        "id": 3,
+        "createdAt": "2022-03-23T00:00:00.000Z",
+        "updatedAt": "2022-03-23T00:00:00.000Z"
+      }
+    ]
+  }
+]
