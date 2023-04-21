@@ -3,7 +3,7 @@
     "user": {
       "id": 1,
       "name": "Bancolombia",
-      "picture": "https://www.bancolombia.com/wcm/connect/b8e4c3f2-36a9-497d-a125-ac04f83b0bf8/LogoBancolombia.png",
+      "picture": "https://www.bancolombia.com/wcm/connect/b8e4c3f2-36a9-497d-a125-ac04f83b0bf8/LogoBancolombia.png?MOD=AJPERES",
       "isVerified": true
     },
     "post": {
@@ -41,7 +41,7 @@
     "user": {
       "id": 2,
       "name": "Scrinio",
-      "picture": "https://scrinio.co/_next/image?url=%2Fimages%2Flogo.png",
+      "picture": "https://scrinio.co/images/carnet-img.png",
       "isVerified": true
     },
     "post": {
