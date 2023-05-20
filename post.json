@@ -75,7 +75,7 @@
     "id": 10,
     "title": "10 consejos para mantener tu jardín en perfecto estado",
     "body": "Mantener un jardín en perfecto estado puede ser un trabajo difícil, pero con estos 10 consejos podrás hacerlo sin problemas. Desde cómo regar las plantas hasta cómo controlar las plagas, te damos todos los detalles.",
-    "media": "https://raw.githubusercontent.com/cScrinio/dbTest/main/images/10jpg",
+    "media": "https://raw.githubusercontent.com/cScrinio/dbTest/main/images/16jpg",
     "createdAt": "2022-03-01T10:30:00.000Z",
     "updatedAt": "2022-03-01T10:30:00.000Z"
   },
@@ -118,13 +118,5 @@
     "media": "https://raw.githubusercontent.com/cScrinio/dbTest/main/images/15.jpg",
     "createdAt": "2021-03-15T09:27:00.000Z",
     "updatedAt": "2021-03-15T09:27:00.000Z"
-  },
-  {
-    "id": 16,
-    "title": "Las mejores apps para aprender idiomas",
-    "body": "En este artículo te presentamos una selección de las mejores aplicaciones para aprender idiomas, con diferentes metodologías y enfoques para que puedas encontrar la que mejor se adapte a tus necesidades y estilo de aprendizaje.",
-    "media": "https://raw.githubusercontent.com/cScrinio/dbTest/main/images/16.jpg",
-    "createdAt": "2022-02-01T18:12:00.000Z",
-    "updatedAt": "2022-02-01T18:12:00.000Z"
   }
 ]
