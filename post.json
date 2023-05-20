@@ -75,7 +75,7 @@
     "id": 10,
     "title": "10 consejos para mantener tu jardín en perfecto estado",
     "body": "Mantener un jardín en perfecto estado puede ser un trabajo difícil, pero con estos 10 consejos podrás hacerlo sin problemas. Desde cómo regar las plantas hasta cómo controlar las plagas, te damos todos los detalles.",
-    "media": "https://raw.githubusercontent.com/cScrinio/dbTest/main/images/16.jpg",
+    "media": "https://raw.githubusercontent.com/cScrinio/dbTest/main/images/10.jpg",
     "createdAt": "2022-03-01T10:30:00.000Z",
     "updatedAt": "2022-03-01T10:30:00.000Z"
   },
@@ -116,6 +116,38 @@
     "title": "Cómo crear una tienda en línea exitosa",
     "body": "En este artículo te mostramos los pasos para crear una tienda en línea exitosa, desde la elección del nicho de mercado hasta la implementación de estrategias de marketing efectivas.",
     "media": "https://raw.githubusercontent.com/cScrinio/dbTest/main/images/15.jpg",
+    "createdAt": "2021-03-15T09:27:00.000Z",
+    "updatedAt": "2021-03-15T09:27:00.000Z"
+  },
+  {
+    "id": 16,
+    "title": "Las mejores películas de ciencia ficción de todos los tiempos",
+    "body": "La ciencia ficción es un género que ha dado lugar a algunas de las películas más icónicas de la historia del cine. En este artículo te presentamos una selección de las mejores películas de ciencia ficción de todos los tiempos.",
+    "media": "https://raw.githubusercontent.com/cScrinio/dbTest/main/images/16.jpg",
+    "createdAt": "2022-04-10T08:00:00.000Z",
+    "updatedAt": "2022-04-10T08:00:00.000Z"
+  },
+  {
+    "id": 17,
+    "title": "La nueva funcionalidad de Scrinio App que te ayudará a mejorar tu productividad",
+    "body": "En Scrinio reemplazamos este carnet por una app que además de ahorrar millones de toneladas en plástico, hace que las universidades y sus estudiantes estén mejor y más conectados a través de múltiples funcionalidades que robustecen e impactan la interacción en las diferentes actores que integran estos centros que adoptan estas tecnologías.",
+    "media": "https://raw.githubusercontent.com/cScrinio/dbTest/main/images/17.jpg",
+    "createdAt": "2019-01-01T00:00:00.000Z",
+    "updatedAt": "2019-01-01T00:00:00.000Z"
+  },
+  {
+    "id": 18,
+    "title": "Cómo crear una tienda en línea exitosa",
+    "body": "En este artículo te mostramos los pasos para crear una tienda en línea exitosa, desde la elección del nicho de mercado hasta la implementación de estrategias de marketing efectivas.",
+    "media": "https://raw.githubusercontent.com/cScrinio/dbTest/main/images/18.jpg",
+    "createdAt": "2021-03-15T09:27:00.000Z",
+    "updatedAt": "2021-03-15T09:27:00.000Z"
+  },
+  {
+    "id": 19,
+    "title": "Cómo crear una tienda en línea exitosa",
+    "body": "En este artículo te mostramos los pasos para crear una tienda en línea exitosa, desde la elección del nicho de mercado hasta la implementación de estrategias de marketing efectivas.",
+    "media": "https://raw.githubusercontent.com/cScrinio/dbTest/main/images/19.jpg",
     "createdAt": "2021-03-15T09:27:00.000Z",
     "updatedAt": "2021-03-15T09:27:00.000Z"
   }
