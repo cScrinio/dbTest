@@ -1,0 +1,93 @@
+[
+  {
+    "user": {
+      "id": 1,
+      "userName": "cristianfloorez",
+      "name": "Cristian Florez",
+      "avatarURL": "https://avatars.githubusercontent.com/u/1?v=4",
+      "isVerified": true
+    },
+    "stories": [
+      {
+        "mediaUrl": "https://raw.githubusercontent.com/cScrinio/dbTest/main/images/stories/1.webp",
+        "mediaType": "image",
+        "duration": 5,
+        "seen": false
+      },
+      {
+        "mediaUrl": "https://raw.githubusercontent.com/cScrinio/dbTest/main/images/stories/1.mp4",
+        "mediaType": "video",
+        "duration": 18,
+        "seen": false
+      }
+    ]
+  },
+  {
+    "user": {
+      "id": 2,
+      "userName": "jhon1",
+      "name": "Jhon",
+      "avatarURL": "https://avatars.githubusercontent.com/u/1?v=4",
+      "isVerified": true
+    },
+    "stories": [
+      {
+        "mediaUrl": "https://raw.githubusercontent.com/cScrinio/dbTest/main/images/stories/2.jpg",
+        "mediaType": "image",
+        "duration": 5,
+        "seen": false
+      }
+    ]
+  },
+  {
+    "user": {
+      "id": 3,
+      "userName": "sebas",
+      "name": "Sebastian Bayer",
+      "avatarURL": "https://avatars.githubusercontent.com/u/1?v=4",
+      "isVerified": true
+    },
+    "stories": [
+      {
+        "mediaUrl": "https://raw.githubusercontent.com/cScrinio/dbTest/main/images/stories/3.jpg",
+        "mediaType": "image",
+        "duration": 5,
+        "seen": false
+      }
+    ]
+  },
+  {
+    "user": {
+      "id": 4,
+      "userName": "alex",
+      "name": "Alexander Desing",
+      "avatarURL": "https://avatars.githubusercontent.com/u/1?v=4",
+      "isVerified": true
+    },
+    "stories": [
+      {
+        "mediaUrl": "https://raw.githubusercontent.com/cScrinio/dbTest/main/images/stories/4.jpg",
+        "mediaType": "image",
+        "duration": 5,
+        "seen": false
+      }
+    ]
+  },
+  {
+    "user": {
+        "id": 5,
+        "userName": "david",
+        "name": "David Back",
+        "avatarURL": "https://avatars.githubusercontent.com/u/1?v=4",
+        "isVerified": true
+      },
+      "stories": [
+        {
+          "mediaUrl": "https://raw.githubusercontent.com/cScrinio/dbTest/main/images/stories/5.jpg",
+          "mediaType": "image",
+          "duration": 5,
+          "seen": false
+        }
+      ]
+  }
+]
